@@ -13,8 +13,8 @@ const ListadoNoticias = ({noticias}) =>  (
         </div>
 );
 
-/*ListadoNoticias.propTypes = {
+ListadoNoticias.propTypes = {
     noticias: PropTypes.array.isRequired
-}*/
+}
  
 export default ListadoNoticias;
